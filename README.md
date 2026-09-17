@@ -1,3 +1,4 @@
+
 # Titanic - Machine Learning from Disaster
 
 基于 Kaggle Titanic 数据集，完成从 EDA 到建模的完整数据分析流程。
@@ -46,3 +47,4 @@ Titanic 是 Kaggle 最经典的入门竞赛，目标是预测乘客是否幸存�
 ```bash
 pip install -r requirements.txt
 jupyter notebook titanic.ipynb
+
